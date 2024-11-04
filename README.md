@@ -61,6 +61,86 @@ Visualized key insights like:
 ---
 This is where I included some basic Excel formulars, some line of code or queries, DAX expressions used during my analysis;
 
-```Excel Formulars
+```Excel Formular
 Revenue =F2*G2
 ```
+
+```Excel Formular
+Average Sales/Product =AVERAGEIF(C:C,C2,H:H)
+```
+
+```Excel Formular
+Total Revenue by Region =SUMIF(D:D, D2, H:H)
+```
+
+```SQL
+Total Sales for each product
+SELECT Product, SUM(Revenue) AS TotalSales
+FROM SalesData
+GROUP BY Product
+Order BY 2 desc
+```
+
+```SQL
+Find the number of sales transactions in each region
+SELECT Region, Count(Revenue) AS No_of_Sales_By_Region
+FROM SalesData
+GROUP BY Region
+```
+
+```SQL
+Find the highest-selling product by total sales value
+SELECT TOP 1 Product, SUM(Revenue) AS TotalSales
+FROM SalesData
+GROUP BY Product
+ORDER BY TotalSales DESC;
+```
+
+```
+Calculate total revenue per product-
+SELECT Product, SUM(Revenue) AS TotalRevenue
+FROM SalesData
+GROUP BY Product;
+```
+
+```
+
+Calculate monthly sales totals for the current year
+SELECT 
+    DATENAME(MONTH, OrderDate) AS SalesMonth, 
+    SUM(Revenue) AS MonthlySales
+FROM SalesData
+WHERE YEAR(OrderDate) = 2024
+GROUP BY DATENAME(MONTH, OrderDate), MONTH(OrderDate)
+ORDER BY MONTH(OrderDate);
+```
+
+```
+Find the top 5 customers by total purchase amount
+SELECT TOP 5 Customer_Id, SUM(Revenue) AS TotalSales
+FROM SalesData
+GROUP BY Customer_Id
+ORDER BY 2 DESC;
+```
+
+```
+
+Calculate the percentage of total sales contributed by each region
+SELECT 
+    Region, 
+    SUM(Revenue) AS Region_Sales,
+    (SUM(Revenue) * 100.0 / (SELECT SUM(Revenue) FROM SalesData) ) AS Sales_Percentage
+FROM SalesData
+GROUP BY Region;
+```
+
+```
+
+Identify products with no sales in the last quarter
+SELECT p.Product
+FROM (SELECT DISTINCT Product FROM SalesData) p
+LEFT JOIN SalesData s ON p.Product = s.Product 
+AND s.OrderDate >= '2023-10-01' AND s.OrderDate < '2024-01-01'
+WHERE s.Product IS NULL;
+```
+
