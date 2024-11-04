@@ -96,15 +96,14 @@ GROUP BY Product
 ORDER BY TotalSales DESC;
 ```
 
-```
+```SQL
 Calculate total revenue per product-
 SELECT Product, SUM(Revenue) AS TotalRevenue
 FROM SalesData
 GROUP BY Product;
 ```
 
-```
-
+```SQL
 Calculate monthly sales totals for the current year
 SELECT 
     DATENAME(MONTH, OrderDate) AS SalesMonth, 
@@ -115,7 +114,7 @@ GROUP BY DATENAME(MONTH, OrderDate), MONTH(OrderDate)
 ORDER BY MONTH(OrderDate);
 ```
 
-```
+```SQL
 Find the top 5 customers by total purchase amount
 SELECT TOP 5 Customer_Id, SUM(Revenue) AS TotalSales
 FROM SalesData
@@ -123,8 +122,7 @@ GROUP BY Customer_Id
 ORDER BY 2 DESC;
 ```
 
-```
-
+```SQL
 Calculate the percentage of total sales contributed by each region
 SELECT 
     Region, 
@@ -134,8 +132,7 @@ FROM SalesData
 GROUP BY Region;
 ```
 
-```
-
+```SQL
 Identify products with no sales in the last quarter
 SELECT p.Product
 FROM (SELECT DISTINCT Product FROM SalesData) p
