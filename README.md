@@ -144,3 +144,6 @@ AND s.OrderDate >= '2023-10-01' AND s.OrderDate < '2024-01-01'
 WHERE s.Product IS NULL;
 ```
 
+### Data Visualization
+
+
