@@ -6,3 +6,12 @@ This project provides an in-depth analysis of sales data to uncover key trends, 
 
 ### Data Sources
 The Primary source of Data used here is SalesData that was provided by Ladies in Tech Africa also known as the Incubator Hub
+
+### Tools Used
+- Microsoft Exel [Dowload Here](https://www.microsoft.com)
+    1. For Data cleaning
+    2. For Analysis
+    3. For Pivot Tables
+- SQL - Structured Query Language for Querying of Data
+- Power BI or Visualization
+- Github for Portifilio Building
