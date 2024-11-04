@@ -147,3 +147,4 @@ WHERE s.Product IS NULL;
 
 #### Pivot Table
 
+![SalesData Pivot Table](https://github.com/user-attachments/assets/3674e6d2-b0ea-4506-b889-34e7b92f51f0)
