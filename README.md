@@ -143,4 +143,7 @@ WHERE s.Product IS NULL;
 
 ### Data Visualization
 
+![Excel Formulars](https://github.com/user-attachments/assets/ac78c1f7-447d-4cb0-9753-e34582de8d2f)
+
+#### Pivot Table
 
