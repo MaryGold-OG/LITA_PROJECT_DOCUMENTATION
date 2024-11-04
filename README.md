@@ -148,3 +148,9 @@ WHERE s.Product IS NULL;
 #### Pivot Table
 
 ![SalesData Pivot Table](https://github.com/user-attachments/assets/3674e6d2-b0ea-4506-b889-34e7b92f51f0)
+
+#### SQL Queries
+
+![Query 1](https://github.com/user-attachments/assets/76920eb3-faee-4b6a-b6bf-79763f9cbab2)
+
+
