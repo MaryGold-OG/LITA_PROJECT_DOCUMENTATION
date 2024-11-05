@@ -204,3 +204,5 @@ WHERE s.Product IS NULL;
 - Since Shoes, Hats, and Shirts had no sales in the last quarter, investigating potential causes, such as seasonal demand shifts, stock issues, or reduced marketing efforts during this period is essential. it is also important to plan marketing/sales strategy towards that season to help sustain sales momentum
 
 - With February 2024 as the peak sales month, I will recommend planning of promotions and inventory in advance for early 2025 to maximize sales during this high-performing period.
+
+- Since April 2023 had the lowest sales, considering strategies to boost demand during this slow month, such as limited-time offers, increased product visibility, or new product launches will help increase sales.
