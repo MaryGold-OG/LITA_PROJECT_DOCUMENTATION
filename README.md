@@ -153,4 +153,16 @@ WHERE s.Product IS NULL;
 
 ![Query 1](https://github.com/user-attachments/assets/76920eb3-faee-4b6a-b6bf-79763f9cbab2)
 
+![Query 2](https://github.com/user-attachments/assets/90196381-80b3-4403-bf2f-143f31dc59b0)
 
+![Query 3](https://github.com/user-attachments/assets/84b54f88-8f50-4b04-89f4-94b3fceb5487)
+
+![Query 4](https://github.com/user-attachments/assets/69a32098-2d49-4187-b757-233a034a365a)
+
+![Query 5](https://github.com/user-attachments/assets/893bd317-1837-4641-8480-b651c64f0ff4)
+
+![Query 6](https://github.com/user-attachments/assets/b6701631-bfa3-42b0-a004-482f73b5b778)
+
+![Query 7](https://github.com/user-attachments/assets/b3d1d6c1-2d0b-402f-b981-d9f90371e6d7)
+
+![Query 8](https://github.com/user-attachments/assets/ffb4f786-21fb-4793-9a60-ce26c1770fb0)
