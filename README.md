@@ -166,3 +166,26 @@ WHERE s.Product IS NULL;
 ![Query 7](https://github.com/user-attachments/assets/b3d1d6c1-2d0b-402f-b981-d9f90371e6d7)
 
 ![Query 8](https://github.com/user-attachments/assets/ffb4f786-21fb-4793-9a60-ce26c1770fb0)
+
+
+### Key Insights
+---
+- Top Products by Sales Value
+    1. Shoes: ₦613,380
+    2. Shirt: ₦485,600
+    3. Hat: ₦316,195
+- Top Products by Quantity Sold
+    1. Hat: 15,929 units
+    2. Shoes: 14,402 units
+    3. Shirt: 12,388 units
+#### Regional Breakdown
+- Top 3 Regions by Sales Revenue:
+    1. South: ₦927,820
+    2. East: ₦485,925
+    3. North: ₦387,000
+    4. Lowest Revenue Region: The West with ₦300,345
+#### Quarterly Sales Patterns
+- No Sales in Last Quarter: Shoes, Hat, and Shirt showed no sales in the most recent quarter.
+#### Sales Trends
+- Highest Revenue Year: 2024, with peak sales recorded in February 2024.
+- Lowest Sales Period: April 2023 saw the lowest sales performance.
