@@ -34,7 +34,7 @@ The Primary source of Data used here is SalesData that was provided by Ladies in
 
 ### Tools Used
 ---
-- Microsoft Exel [Dowload Here](https://www.microsoft.com)
+- Microsoft Exel
     1. For Data cleaning
     2. For Analysis
     3. For Pivot Tables
