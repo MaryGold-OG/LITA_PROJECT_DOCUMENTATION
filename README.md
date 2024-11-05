@@ -142,15 +142,15 @@ WHERE s.Product IS NULL;
 ```
 
 ### Data Visualization
-
+---
 ![Excel Formulars](https://github.com/user-attachments/assets/ac78c1f7-447d-4cb0-9753-e34582de8d2f)
 
 #### Pivot Table
-
+---
 ![SalesData Pivot Table](https://github.com/user-attachments/assets/3674e6d2-b0ea-4506-b889-34e7b92f51f0)
 
 #### SQL Queries
-
+---
 ![Query 1](https://github.com/user-attachments/assets/76920eb3-faee-4b6a-b6bf-79763f9cbab2)
 
 ![Query 2](https://github.com/user-attachments/assets/90196381-80b3-4403-bf2f-143f31dc59b0)
@@ -166,6 +166,11 @@ WHERE s.Product IS NULL;
 ![Query 7](https://github.com/user-attachments/assets/b3d1d6c1-2d0b-402f-b981-d9f90371e6d7)
 
 ![Query 8](https://github.com/user-attachments/assets/ffb4f786-21fb-4793-9a60-ce26c1770fb0)
+
+### Power BI Dashboard
+---
+
+![Sales Data Dashboard](https://github.com/user-attachments/assets/0d43b9b0-0576-4c20-9176-1f9b6a7c45b5)
 
 
 ### Key Insights
@@ -189,3 +194,7 @@ WHERE s.Product IS NULL;
 #### Sales Trends
 - Highest Revenue Year: 2024, with peak sales recorded in February 2024.
 - Lowest Sales Period: April 2023 saw the lowest sales performance.
+
+### Recommendation
+---
+- Given that Shoes, Shirts, and Hats are top-performing products, allocate additional marketing resources to further boost their sales. This could involve bundled offers, discounts, or loyalty incentives to capitalize on their high revenue potential. Meanwhile, Gloves, Socks, and Jackets, which showed lower performance, may benefit from a rebranding strategy. Repositioning these items with refreshed designs, targeted marketing efforts, or promotional campaigns to increase their visibility and appeal in the market can be considered.
