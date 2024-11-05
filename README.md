@@ -3,33 +3,32 @@
 
 [Project Overview](#project-overview) 
 
-Data Sources
+[Data Source](#data-source)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Preparation
+[Data Cleaning and Preparation](data-cleanimg-and-preparation)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
+[SQL-Based Queries](#sql-based-queries)
 
-SQL-Based Queries
+[Power BI Dashboard](#power-bi-dashboard)
 
-Power BI Dashboard
+[Data Analysis](#data-analysis)
 
-Data Analysis
+[Data Visualization](#data-visualization)
 
-Data Visualization
+[Key Insights](#key-insights)
 
-Key Insights
-
-Recommendation
+[Recommendation](#recommendation)
 
 
 ### Project Overview 
 ---
 This project provides an in-depth analysis of sales data to uncover key trends, highlight top-performing products, and understand regional sales distribution. The analysis employs SQL and Power BI to visualize sales insights, identify product and regional performance, and track sales trends over time.
 
-### Data Sources
+### Data Source
 ---
 The Primary source of Data used here is SalesData that was provided by Ladies in Tech Africa also known as the Incubator Hub
 
