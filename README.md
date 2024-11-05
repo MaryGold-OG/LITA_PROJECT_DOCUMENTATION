@@ -1,6 +1,30 @@
 # LITA_PROJECT_SALESDATA
 ### Project Title: Sales Data Analysis
 
+[Project Overview](#project overview) 
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
+Exploratory Data Analysis
+
+
+SQL-Based Queries
+
+Power BI Dashboard
+
+Data Analysis
+
+Data Visualization
+
+Key Insights
+
+Recommendation
+
+
 ### Project Overview 
 ---
 This project provides an in-depth analysis of sales data to uncover key trends, highlight top-performing products, and understand regional sales distribution. The analysis employs SQL and Power BI to visualize sales insights, identify product and regional performance, and track sales trends over time.
