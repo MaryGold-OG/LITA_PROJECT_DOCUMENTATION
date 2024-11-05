@@ -198,3 +198,9 @@ WHERE s.Product IS NULL;
 ### Recommendation
 ---
 - Given that Shoes, Shirts, and Hats are top-performing products, allocate additional marketing resources to further boost their sales. This could involve bundled offers, discounts, or loyalty incentives to capitalize on their high revenue potential. Meanwhile, Gloves, Socks, and Jackets, which showed lower performance, may benefit from a rebranding strategy. Repositioning these items with refreshed designs, targeted marketing efforts, or promotional campaigns to increase their visibility and appeal in the market can be considered.
+
+- With the West region showing the lowest revenue, implementing a targeted strategy could help boost sales. Start by analyzing customer preferences within this region to identify potential gaps in product offerings or delivery channels. Addressing these gaps—whether by adjusting the product lineup, optimizing delivery options, or creating region-specific promotions—may significantly enhance sales performance in this underperforming area.
+
+- Since Shoes, Hats, and Shirts had no sales in the last quarter, investigating potential causes, such as seasonal demand shifts, stock issues, or reduced marketing efforts during this period is essential. it is also important to plan marketing/sales strategy towards that season to help sustain sales momentum
+
+- With February 2024 as the peak sales month, I will recommend planning of promotions and inventory in advance for early 2025 to maximize sales during this high-performing period.
